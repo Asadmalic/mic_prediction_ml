@@ -1,0 +1,1 @@
+This code to predict MIC of Neisseria gonorrhoeae bacertia using unitig sequences.  

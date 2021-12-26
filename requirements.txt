@@ -1,0 +1,6 @@
+AI4Water
+numpy
+matplotlib
+pandas
+scikit-learn
+xgboost
